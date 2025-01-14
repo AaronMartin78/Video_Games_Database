@@ -1,0 +1,556 @@
+GamePlatformID,GameID,PlatformID,game_title,platform
+1,2147,1,shin megami tensei: devil survivor overclocked,3ds
+2,863,1,fire emblem: awakening,3ds
+3,124,1,asphalt 3d,3ds
+4,1196,1,kid icarus: uprising,3ds
+5,2400,1,super mario 3d land,3ds
+6,2200,1,skylanders giants,3ds
+7,1136,1,inazuma eleven,3ds
+8,2003,1,resident evil: revelations,3ds
+9,1925,1,project x zone,3ds
+10,1872,1,pokemon art academy,3ds
+11,1419,1,marvel super hero squad: the infinity gauntlet,3ds
+12,1997,1,resident evil 4 hd,3ds
+13,357,1,castlevania: lords of shadow - mirror of fate,3ds
+14,929,1,gabrielle's ghostly groove 3d,3ds
+15,239,1,blazblue: continuum shift ii,3ds
+16,399,1,combat of giants: dinosaurs 3d,3ds
+17,2064,1,rune factory 4,3ds
+18,285,1,broken sword 5: the serpent's curse,3ds
+19,2596,1,the night of the rabbit,3ds
+20,279,1,bravely second: end layer,3ds
+21,2001,2,resident evil: deadly silence,ds
+22,1812,2,pac-man world 3,ds
+23,955,2,glory of heracles,ds
+24,162,2,avatar: the last airbender - the burning earth,ds
+25,438,2,crash boom bang!,ds
+26,210,2,ben 10 alien force: vilgax attacks,ds
+27,1937,2,puzzle quest: galactrix,ds
+28,1629,2,naruto: ninja destiny,ds
+29,2612,2,the sims 2: apartment pets,ds
+30,1285,2,lego star wars ii: the original trilogy,ds
+31,2108,2,secret files: tunguska,ds
+32,842,2,final fantasy fables: chocobo tales,ds
+33,1467,2,mega man zero collection,ds
+34,450,2,crosswords,ds
+35,813,2,ferrari challenge trofeo pirelli,ds
+36,1886,2,pokemon trozei!,ds
+37,2419,2,super robot taisen og saga: endless frontier,ds
+38,2425,2,superman returns,ds
+39,755,2,etrian odyssey,ds
+40,2142,2,sherlock holmes: the mystery of the mummy,ds
+41,1741,2,nicktoons: battle for volcano island,ds
+42,1136,2,inazuma eleven,ds
+43,2416,2,super monkey ball: touch & roll,ds
+44,821,2,fifa soccer 10,ds
+45,838,2,final fantasy crystal chronicles: echoes of time,ds
+46,245,2,bleach: the blade of fate,ds
+47,2232,2,sonic & sega all-stars racing,ds
+48,2707,2,tony hawk's american sk8land,ds
+49,1627,3,naruto: ninja council,game-boy-advance
+50,2384,3,stuntman,game-boy-advance
+51,2839,3,wario land 4,game-boy-advance
+52,33,3,advance wars,game-boy-advance
+53,2159,3,shining soul,game-boy-advance
+54,2334,3,star wars episode ii: attack of the clones,game-boy-advance
+55,1236,3,kirby: nightmare in dream land,game-boy-advance
+56,1053,3,hamtaro: ham-ham games,game-boy-advance
+57,2766,3,ty the tasmanian tiger 2: bush rescue,game-boy-advance
+58,2160,3,shining soul ii,game-boy-advance
+59,2707,3,tony hawk's american sk8land,game-boy-advance
+60,1741,3,nicktoons: battle for volcano island,game-boy-advance
+61,1285,3,lego star wars ii: the original trilogy,game-boy-advance
+62,2233,3,sonic advance,game-boy-advance
+63,488,3,dave mirra freestyle bmx 2,game-boy-advance
+64,439,3,crash nitro kart,game-boy-advance
+65,1465,3,mega man zero 3,game-boy-advance
+66,2891,3,wolfenstein 3d,game-boy-advance
+67,2716,4,tony hawk's underground,gamecube
+68,1678,4,nba street vol. 2,gamecube
+69,1285,4,lego star wars ii: the original trilogy,gamecube
+70,2944,4,x-men legends,gamecube
+71,439,4,crash nitro kart,gamecube
+72,2309,4,spyro: a hero's tail,gamecube
+73,752,4,eternal darkness: sanity's requiem,gamecube
+74,1737,4,nhl hitz 20-02,gamecube
+75,257,4,bloody roar: primal fury,gamecube
+76,1451,4,mega man anniversary collection,gamecube
+77,1036,4,gun,gamecube
+78,2815,4,viewtiful joe: red hot rumble,gamecube
+79,457,4,cubivore: survival of the fittest,gamecube
+80,1166,4,james bond 007: agent under fire,gamecube
+81,1445,4,medal of honor: rising sun,gamecube
+82,1741,4,nicktoons: battle for volcano island,gamecube
+83,1398,4,mario party 5,gamecube
+84,2926,4,wwe day of reckoning 2,gamecube
+85,1407,4,mario power tennis,gamecube
+86,828,4,fifa street 2,gamecube
+87,1442,4,medal of honor: european assault,gamecube
+88,186,4,battalion wars,gamecube
+89,2766,4,ty the tasmanian tiger 2: bush rescue,gamecube
+90,2246,4,sonic heroes,gamecube
+91,1812,4,pac-man world 3,gamecube
+92,1400,4,mario party 7,gamecube
+93,2765,4,ty the tasmanian tiger,gamecube
+94,2045,6,rocket league,nintendo-switch
+95,2064,6,rune factory 4,nintendo-switch
+96,2108,6,secret files: tunguska,nintendo-switch
+97,382,6,cities: skylines,nintendo-switch
+98,203,6,bayonetta 2,nintendo-switch
+99,2003,6,resident evil: revelations,nintendo-switch
+100,774,7,f.e.a.r. 2: project origin,pc
+101,1138,7,indiana jones and the emperor's tomb,pc
+102,821,7,fifa soccer 10,pc
+103,908,7,freelancer,pc
+104,1151,7,inversion,pc
+105,2372,7,still life 2,pc
+106,1324,7,lost planet 3,pc
+107,1426,7,mass effect 3,pc
+108,285,7,broken sword 5: the serpent's curse,pc
+109,2900,7,world of warcraft: legion,pc
+110,852,7,final fantasy xi,pc
+111,2830,7,wanted: weapons of fate,pc
+112,2232,7,sonic & sega all-stars racing,pc
+113,1647,7,nascar thunder 2004,pc
+114,2180,7,silent hill: homecoming,pc
+115,270,7,borderlands 2,pc
+116,2084,7,samurai warriors 2,pc
+117,764,7,evil genius,pc
+118,729,7,edna & harvey: harvey's new eyes,pc
+119,2765,7,ty the tasmanian tiger,pc
+120,2397,7,sunset overdrive,pc
+121,234,7,blazblue: calamity trigger,pc
+122,196,7,battlefield vietnam,pc
+123,2229,7,soldier of fortune: payback,pc
+124,2809,7,velvet assassin,pc
+125,2141,7,sherlock holmes vs. jack the ripper,pc
+126,571,7,dirt showdown,pc
+127,1569,7,motogp 14,pc
+128,2003,7,resident evil: revelations,pc
+129,2597,7,the operative: no one lives forever,pc
+130,2088,7,samurai warriors 4-ii,pc
+131,886,7,ford racing 2,pc
+132,1259,7,left 4 dead,pc
+133,2123,7,serious sam ii,pc
+134,194,7,battlefield 3,pc
+135,273,7,botanicula,pc
+136,405,7,commandos 3: destination berlin,pc
+137,783,7,f1 2012,pc
+138,569,7,dirt 3,pc
+139,1470,7,megatagmension blanc + neptune vs zombies,pc
+140,2556,7,the last remnant,pc
+141,2068,7,ryse: son of rome,pc
+142,1102,7,homefront,pc
+143,290,7,brothers in arms: earned in blood,pc
+144,2176,7,silent hill 4: the room,pc
+145,1812,7,pac-man world 3,pc
+146,2371,7,still life,pc
+147,57,7,alan wake,pc
+148,2746,7,trine,pc
+149,2246,7,sonic heroes,pc
+150,2491,7,test drive,pc
+151,2027,7,ridge racer unbounded,pc
+152,1244,7,koihime enbu,pc
+153,1448,7,medieval ii: total war,pc
+154,44,7,age of conan: rise of the godslayer,pc
+155,792,7,fallout 3,pc
+156,2072,7,sacred 2: fallen angel,pc
+157,2142,7,sherlock holmes: the mystery of the mummy,pc
+158,2028,7,rise of nations,pc
+159,67,7,alone in the dark,pc
+160,326,7,call of duty: advanced warfare,pc
+161,373,7,chicago enforcer,pc
+162,1997,7,resident evil 4 hd,pc
+163,1036,7,gun,pc
+164,1943,7,r.u.s.e.,pc
+165,580,7,dishonored,pc
+166,2045,7,rocket league,pc
+167,2364,7,state of decay,pc
+168,496,7,dead island: riptide,pc
+169,2108,7,secret files: tunguska,pc
+170,1948,7,rage,pc
+171,2303,7,spore galactic adventures,pc
+172,2639,7,the walking dead: survival instinct,pc
+173,619,7,dragon age ii,pc
+174,1441,7,medal of honor: airborne,pc
+175,2633,7,the technomancer,pc
+176,382,7,cities: skylines,pc
+177,603,7,dmc: devil may cry,pc
+178,1937,7,puzzle quest: galactrix,pc
+179,2754,7,tropico 5,pc
+180,2596,7,the night of the rabbit,pc
+181,228,7,black & white 2,pc
+182,497,7,dead man's hand,pc
+183,2268,7,space hulk,pc
+184,357,7,castlevania: lords of shadow - mirror of fate,pc
+185,2102,7,scrapland,pc
+186,1285,7,lego star wars ii: the original trilogy,pc
+187,191,7,battlefield 2,pc
+188,1595,7,myst iii: exile,pc
+189,2208,8,smash court tennis pro tournament 2,playstation-2
+190,2983,8,yu yu hakusho: dark tournament,playstation-2
+191,1741,8,nicktoons: battle for volcano island,playstation-2
+192,2858,8,we love katamari,playstation-2
+193,924,8,futurama,playstation-2
+194,2384,8,stuntman,playstation-2
+195,821,8,fifa soccer 10,playstation-2
+196,105,8,armored core 2: another age,playstation-2
+197,2246,8,sonic heroes,playstation-2
+198,2719,8,top spin,playstation-2
+199,920,8,fullmetal alchemist and the broken angel,playstation-2
+200,2058,8,rumble racing,playstation-2
+201,696,8,dynasty tactics 2,playstation-2
+202,2565,8,the legend of spyro: the eternal night,playstation-2
+203,110,8,armored core: last raven,playstation-2
+204,1166,8,james bond 007: agent under fire,playstation-2
+205,210,8,ben 10 alien force: vilgax attacks,playstation-2
+206,983,8,gradius v,playstation-2
+207,828,8,fifa street 2,playstation-2
+208,2935,8,wwe smackdown! vs. raw,playstation-2
+209,1492,8,metal slug 4 & 5,playstation-2
+210,852,8,final fantasy xi,playstation-2
+211,1647,8,nascar thunder 2004,playstation-2
+212,813,8,ferrari challenge trofeo pirelli,playstation-2
+213,2879,8,wild arms 5,playstation-2
+214,2084,8,samurai warriors 2,playstation-2
+215,2664,8,time crisis 3,playstation-2
+216,2149,8,shin megami tensei: digital devil saga 2,playstation-2
+217,367,8,champions: return to arms,playstation-2
+218,1163,8,jak and daxter: the precursor legacy,playstation-2
+219,1896,8,primal,playstation-2
+220,2966,8,yakuza 2,playstation-2
+221,827,8,fifa street,playstation-2
+222,1636,8,naruto: ultimate ninja 3,playstation-2
+223,1138,8,indiana jones and the emperor's tomb,playstation-2
+224,2327,8,star trek: conquest,playstation-2
+225,2766,8,ty the tasmanian tiger 2: bush rescue,playstation-2
+226,290,8,brothers in arms: earned in blood,playstation-2
+227,886,8,ford racing 2,playstation-2
+228,225,8,black,playstation-2
+229,1663,8,nba ballers,playstation-2
+230,963,8,god of war ii,playstation-2
+231,2597,8,the operative: no one lives forever,playstation-2
+232,2176,8,silent hill 4: the room,playstation-2
+233,439,8,crash nitro kart,playstation-2
+234,1370,8,major league baseball 2k8,playstation-2
+235,1445,8,medal of honor: rising sun,playstation-2
+236,1678,8,nba street vol. 2,playstation-2
+237,1362,8,magna carta: tears of blood,playstation-2
+238,2944,8,x-men legends,playstation-2
+239,1036,8,gun,playstation-2
+240,1024,8,guitar hero encore: rocks the 80s,playstation-2
+241,2716,8,tony hawk's underground,playstation-2
+242,2959,8,xenosaga episode iii: also sprach zarathustra,playstation-2
+243,1285,8,lego star wars ii: the original trilogy,playstation-2
+244,1165,8,jak x: combat racing,playstation-2
+245,166,8,backyard wrestling: don't try this at home,playstation-2
+246,548,8,devil may cry 3: dante's awakening,playstation-2
+247,2309,8,spyro: a hero's tail,playstation-2
+248,2152,8,shin megami tensei: persona 3,playstation-2
+249,1219,8,kingdom hearts,playstation-2
+250,2451,8,tales of legendia,playstation-2
+251,1760,8,nobunaga's ambition: rise to power,playstation-2
+252,2219,8,socom ii: u.s. navy seals,playstation-2
+253,2254,8,sonic unleashed,playstation-2
+254,1451,8,mega man anniversary collection,playstation-2
+255,488,8,dave mirra freestyle bmx 2,playstation-2
+256,307,8,burnout dominator,playstation-2
+257,796,8,family guy,playstation-2
+258,2157,8,shining force neo,playstation-2
+259,2491,8,test drive,playstation-2
+260,1558,8,monster jam: maximum destruction,playstation-2
+261,475,8,dark cloud 2,playstation-2
+262,9,8,24: the game,playstation-2
+263,1215,8,king arthur,playstation-2
+264,2936,8,wwe smackdown! vs. raw 2006,playstation-2
+265,2190,8,singstar pop,playstation-2
+266,1442,8,medal of honor: european assault,playstation-2
+267,1097,8,high school musical: sing it!,playstation-2
+268,1130,8,ico,playstation-2
+269,162,8,avatar: the last airbender - the burning earth,playstation-2
+270,2765,8,ty the tasmanian tiger,playstation-2
+271,2984,8,yu-gi-oh! capsule monster coliseum,playstation-2
+272,808,8,fatal frame ii: crimson butterfly,playstation-2
+273,885,8,ford mustang: the legend lives,playstation-2
+274,1551,8,monster hunter,playstation-2
+275,1812,8,pac-man world 3,playstation-2
+276,194,9,battlefield 3,playstation-3
+277,783,9,f1 2012,playstation-3
+278,1948,9,rage,playstation-3
+279,1110,9,hot shots golf: world invitational,playstation-3
+280,8,9,2014 fifa world cup brazil,playstation-3
+281,569,9,dirt 3,playstation-3
+282,1984,9,red dead redemption,playstation-3
+283,717,9,ea sports mma,playstation-3
+284,2639,9,the walking dead: survival instinct,playstation-3
+285,1075,9,hatsune miku: project diva f,playstation-3
+286,2324,9,star ocean: the last hope,playstation-3
+287,2200,9,skylanders giants,playstation-3
+288,2850,9,warriors: legends of troy,playstation-3
+289,2072,9,sacred 2: fallen angel,playstation-3
+290,1102,9,homefront,playstation-3
+291,792,9,fallout 3,playstation-3
+292,2254,9,sonic unleashed,playstation-3
+293,2098,9,scene it? bright lights! big screen!,playstation-3
+294,1650,9,naughty bear,playstation-3
+295,2027,9,ridge racer unbounded,playstation-3
+296,577,9,disgaea d2: a brighter darkness,playstation-3
+297,603,9,dmc: devil may cry,playstation-3
+298,1871,9,playstation move heroes,playstation-3
+299,2229,9,soldier of fortune: payback,playstation-3
+300,813,9,ferrari challenge trofeo pirelli,playstation-3
+301,2861,9,wet,playstation-3
+302,1569,9,motogp 14,playstation-3
+303,270,9,borderlands 2,playstation-3
+304,774,9,f.e.a.r. 2: project origin,playstation-3
+305,2003,9,resident evil: revelations,playstation-3
+306,1324,9,lost planet 3,playstation-3
+307,1426,9,mass effect 3,playstation-3
+308,1201,9,killzone 2,playstation-3
+309,2232,9,sonic & sega all-stars racing,playstation-3
+310,2830,9,wanted: weapons of fate,playstation-3
+311,15,9,50 cent: blood on the sand,playstation-3
+312,2891,9,wolfenstein 3d,playstation-3
+313,1151,9,inversion,playstation-3
+314,2041,9,rock band 2,playstation-3
+315,1937,9,puzzle quest: galactrix,playstation-3
+316,704,9,dynasty warriors 7,playstation-3
+317,571,9,dirt showdown,playstation-3
+318,2793,9,untold legends: dark kingdom,playstation-3
+319,357,9,castlevania: lords of shadow - mirror of fate,playstation-3
+320,1441,9,medal of honor: airborne,playstation-3
+321,619,9,dragon age ii,playstation-3
+322,496,9,dead island: riptide,playstation-3
+323,1580,9,mugen souls z,playstation-3
+324,1300,9,littlebigplanet,playstation-3
+325,1548,9,monopoly streets,playstation-3
+326,2180,9,silent hill: homecoming,playstation-3
+327,1525,9,mindjack,playstation-3
+328,94,9,aquapazza: aquaplus dream match,playstation-3
+329,2207,9,sly cooper: thieves in time,playstation-3
+330,1588,9,mx vs. atv reflex,playstation-3
+331,1943,9,r.u.s.e.,playstation-3
+332,2665,9,time crisis 4,playstation-3
+333,1254,9,lair,playstation-3
+334,234,9,blazblue: calamity trigger,playstation-3
+335,580,9,dishonored,playstation-3
+336,821,9,fifa soccer 10,playstation-3
+337,2003,10,resident evil: revelations,playstation-4
+338,2633,10,the technomancer,playstation-4
+339,1306,10,locoroco 2,playstation-4
+340,2045,10,rocket league,playstation-4
+341,1569,10,motogp 14,playstation-4
+342,326,10,call of duty: advanced warfare,playstation-4
+343,2754,10,tropico 5,playstation-4
+344,382,10,cities: skylines,playstation-4
+345,2394,10,summon night 6: lost borders,playstation-4
+346,2088,10,samurai warriors 4-ii,playstation-4
+347,729,10,edna & harvey: harvey's new eyes,playstation-4
+348,67,11,alone in the dark,playstation-5
+349,2394,12,summon night 6: lost borders,playstation-vita
+350,708,12,dynasty warriors next,playstation-vita
+351,1110,12,hot shots golf: world invitational,playstation-vita
+352,1569,12,motogp 14,playstation-vita
+353,1075,12,hatsune miku: project diva f,playstation-vita
+354,1792,12,oreshika: tainted bloodlines,playstation-vita
+355,1470,12,megatagmension blanc + neptune vs zombies,playstation-vita
+356,270,12,borderlands 2,playstation-vita
+357,2207,12,sly cooper: thieves in time,playstation-vita
+358,1554,13,monster hunter freedom 2,psp
+359,2484,13,tenchu: shadow assassins,psp
+360,239,13,blazblue: continuum shift ii,psp
+361,1036,13,gun,psp
+362,680,13,driver '76,psp
+363,1602,13,namco museum battle collection,psp
+364,1588,13,mx vs. atv reflex,psp
+365,2815,13,viewtiful joe: red hot rumble,psp
+366,1300,13,littlebigplanet,psp
+367,1812,13,pac-man world 3,psp
+368,1285,13,lego star wars ii: the original trilogy,psp
+369,1455,13,mega man maverick hunter x,psp
+370,31,13,ace combat: joint assault,psp
+371,91,13,ape escape: on the loose,psp
+372,691,13,dungeon siege: throne of agony,psp
+373,2501,13,the 3rd birthday,psp
+374,11,13,300: march to glory,psp
+375,874,13,flatout: head on,psp
+376,307,13,burnout dominator,psp
+377,796,13,family guy,psp
+378,2044,13,rock band unplugged,psp
+379,2349,13,star wars: lethal alliance,psp
+380,2887,13,wipeout pulse,psp
+381,1637,13,naruto: ultimate ninja heroes,psp
+382,2936,13,wwe smackdown! vs. raw 2006,psp
+383,1611,13,naruto shippuden: kizuna drive,psp
+384,1857,13,pinball hall of fame: the gottlieb collection,psp
+385,967,13,god of war: ghost of sparta,psp
+386,234,13,blazblue: calamity trigger,psp
+387,1370,13,major league baseball 2k8,psp
+388,821,13,fifa soccer 10,psp
+389,1617,13,naruto shippuden: ultimate ninja impact,psp
+390,814,13,field commander,psp
+391,828,13,fifa street 2,psp
+392,1306,13,locoroco 2,psp
+393,210,13,ben 10 alien force: vilgax attacks,psp
+394,187,14,battalion wars 2,wii
+395,2108,14,secret files: tunguska,wii
+396,1419,14,marvel super hero squad: the infinity gauntlet,wii
+397,516,14,deadly creatures,wii
+398,215,14,big brain academy: wii degree,wii
+399,1097,14,high school musical: sing it!,wii
+400,2041,14,rock band 2,wii
+401,1370,14,major league baseball 2k8,wii
+402,162,14,avatar: the last airbender - the burning earth,wii
+403,838,14,final fantasy crystal chronicles: echoes of time,wii
+404,289,14,brothers in arms: double time,wii
+405,903,14,fragile dreams: farewell ruins of the moon,wii
+406,2232,14,sonic & sega all-stars racing,wii
+407,1548,14,monopoly streets,wii
+408,399,14,combat of giants: dinosaurs 3d,wii
+409,2047,14,rockstar games presents table tennis,wii
+410,2484,14,tenchu: shadow assassins,wii
+411,1817,14,pandora's tower,wii
+412,821,14,fifa soccer 10,wii
+413,423,14,cooking mama: cook off,wii
+414,210,14,ben 10 alien force: vilgax attacks,wii
+415,2327,14,star trek: conquest,wii
+416,2254,14,sonic unleashed,wii
+417,1409,14,mario strikers charged,wii
+418,2200,14,skylanders giants,wii
+419,2565,14,the legend of spyro: the eternal night,wii
+420,2859,14,we ski,wii
+421,2415,14,super monkey ball: step & roll,wii
+422,2799,14,valhalla knights: eldar saga,wii
+423,813,14,ferrari challenge trofeo pirelli,wii
+424,1857,14,pinball hall of fame: the gottlieb collection,wii
+425,1407,14,mario power tennis,wii
+426,652,14,dragon ball: revenge of king piccolo,wii
+427,2649,15,the wonderful 101,wii-u
+428,2871,15,wii party u,wii-u
+429,2200,15,skylanders giants,wii-u
+430,203,15,bayonetta 2,wii-u
+431,2371,15,still life,wii-u
+432,2003,15,resident evil: revelations,wii-u
+433,80,15,animal crossing: amiibo festival,wii-u
+434,2102,15,scrapland,wii-u
+435,1232,15,kirby and the rainbow curse,wii-u
+436,1426,15,mass effect 3,wii-u
+437,2639,15,the walking dead: survival instinct,wii-u
+438,2123,15,serious sam ii,wii-u
+439,373,15,chicago enforcer,wii-u
+440,2716,16,tony hawk's underground,xbox
+441,1285,16,lego star wars ii: the original trilogy,xbox
+442,1737,16,nhl hitz 20-02,xbox
+443,1678,16,nba street vol. 2,xbox
+444,1451,16,mega man anniversary collection,xbox
+445,2309,16,spyro: a hero's tail,xbox
+446,2944,16,x-men legends,xbox
+447,225,16,black,xbox
+448,2427,16,superman: the man of steel,xbox
+449,439,16,crash nitro kart,xbox
+450,290,16,brothers in arms: earned in blood,xbox
+451,2176,16,silent hill 4: the room,xbox
+452,1663,16,nba ballers,xbox
+453,1036,16,gun,xbox
+454,2766,16,ty the tasmanian tiger 2: bush rescue,xbox
+455,1445,16,medal of honor: rising sun,xbox
+456,2491,16,test drive,xbox
+457,1138,16,indiana jones and the emperor's tomb,xbox
+458,1039,16,gunvalkyrie,xbox
+459,2765,16,ty the tasmanian tiger,xbox
+460,257,16,bloody roar: primal fury,xbox
+461,280,16,breakdown,xbox
+462,2425,16,superman returns,xbox
+463,827,16,fifa street,xbox
+464,1166,16,james bond 007: agent under fire,xbox
+465,796,16,family guy,xbox
+466,497,16,dead man's hand,xbox
+467,828,16,fifa street 2,xbox
+468,1215,16,king arthur,xbox
+469,1647,16,nascar thunder 2004,xbox
+470,251,16,blood wake,xbox
+471,1492,16,metal slug 4 & 5,xbox
+472,2719,16,top spin,xbox
+473,2246,16,sonic heroes,xbox
+474,924,16,futurama,xbox
+475,1442,16,medal of honor: european assault,xbox
+476,885,16,ford mustang: the legend lives,xbox
+477,2861,17,wet,xbox-360
+478,2556,17,the last remnant,xbox-360
+479,1943,17,r.u.s.e.,xbox-360
+480,1588,17,mx vs. atv reflex,xbox-360
+481,1650,17,naughty bear,xbox-360
+482,941,17,gears of war 3,xbox-360
+483,1525,17,mindjack,xbox-360
+484,569,17,dirt 3,xbox-360
+485,783,17,f1 2012,xbox-360
+486,2141,17,sherlock holmes vs. jack the ripper,xbox-360
+487,571,17,dirt showdown,xbox-360
+488,704,17,dynasty warriors 7,xbox-360
+489,1924,17,project sylpheed: arc of deception,xbox-360
+490,2754,17,tropico 5,xbox-360
+491,1948,17,rage,xbox-360
+492,2098,17,scene it? bright lights! big screen!,xbox-360
+493,2324,17,star ocean: the last hope,xbox-360
+494,717,17,ea sports mma,xbox-360
+495,792,17,fallout 3,xbox-360
+496,2072,17,sacred 2: fallen angel,xbox-360
+497,891,17,forza horizon,xbox-360
+498,8,17,2014 fifa world cup brazil,xbox-360
+499,57,17,alan wake,xbox-360
+500,1984,17,red dead redemption,xbox-360
+501,2200,17,skylanders giants,xbox-360
+502,2850,17,warriors: legends of troy,xbox-360
+503,210,17,ben 10 alien force: vilgax attacks,xbox-360
+504,2254,17,sonic unleashed,xbox-360
+505,194,17,battlefield 3,xbox-360
+506,2639,17,the walking dead: survival instinct,xbox-360
+507,2364,17,state of decay,xbox-360
+508,1102,17,homefront,xbox-360
+509,2084,17,samurai warriors 2,xbox-360
+510,603,17,dmc: devil may cry,xbox-360
+511,2229,17,soldier of fortune: payback,xbox-360
+512,2425,17,superman returns,xbox-360
+513,1259,17,left 4 dead,xbox-360
+514,580,17,dishonored,xbox-360
+515,2047,17,rockstar games presents table tennis,xbox-360
+516,1036,17,gun,xbox-360
+517,2891,17,wolfenstein 3d,xbox-360
+518,2180,17,silent hill: homecoming,xbox-360
+519,234,17,blazblue: calamity trigger,xbox-360
+520,15,17,50 cent: blood on the sand,xbox-360
+521,2232,17,sonic & sega all-stars racing,xbox-360
+522,774,17,f.e.a.r. 2: project origin,xbox-360
+523,1324,17,lost planet 3,xbox-360
+524,1206,17,kinect adventures!,xbox-360
+525,2041,17,rock band 2,xbox-360
+526,821,17,fifa soccer 10,xbox-360
+527,2003,17,resident evil: revelations,xbox-360
+528,1548,17,monopoly streets,xbox-360
+529,1208,17,kinect sports,xbox-360
+530,499,17,dead or alive 4,xbox-360
+531,270,17,borderlands 2,xbox-360
+532,2809,17,velvet assassin,xbox-360
+533,357,17,castlevania: lords of shadow - mirror of fate,xbox-360
+534,852,17,final fantasy xi,xbox-360
+535,1285,17,lego star wars ii: the original trilogy,xbox-360
+536,162,17,avatar: the last airbender - the burning earth,xbox-360
+537,1426,17,mass effect 3,xbox-360
+538,2830,17,wanted: weapons of fate,xbox-360
+539,1151,17,inversion,xbox-360
+540,1441,17,medal of honor: airborne,xbox-360
+541,619,17,dragon age ii,xbox-360
+542,1419,17,marvel super hero squad: the infinity gauntlet,xbox-360
+543,2027,17,ridge racer unbounded,xbox-360
+544,496,17,dead island: riptide,xbox-360
+545,1937,17,puzzle quest: galactrix,xbox-360
+546,729,18,edna & harvey: harvey's new eyes,xbox-one
+547,2397,18,sunset overdrive,xbox-one
+548,835,18,fighter within,xbox-one
+549,2003,18,resident evil: revelations,xbox-one
+550,326,18,call of duty: advanced warfare,xbox-one
+551,2633,18,the technomancer,xbox-one
+552,2068,18,ryse: son of rome,xbox-one
+553,2045,18,rocket league,xbox-one
+554,382,18,cities: skylines,xbox-one
+555,67,19,alone in the dark,xbox-series-x
